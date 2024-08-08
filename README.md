@@ -30,9 +30,9 @@
 
 **Key Metrics and Results:**
 * Total Spending per Month
+* Total Spend per Classification
 * Total Spend per Category
 * Top 5 Spending Categories
-* Average Spending
 
 **Results:** Month-on-month expense comparison through interactive visualizations.
 
@@ -47,17 +47,3 @@
 * Importance of robust data cleaning and validation.
 * Effective visualization enhances data interpretation.
 * Potential for broader application with further development.
-Use code with caution.
-
-
-
-
-
-
-
-
-
-
-
-Gemini may display inaccurate info, including about people, so double-check its responses. Your privacy and Gemini AppsOpens in a new window
-
